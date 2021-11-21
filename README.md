@@ -1,6 +1,6 @@
 # Torrents Organizer
 
-Simple script tobe executed on torrents completion to organize them in their respective libraries, depending on their content (movies, tv show, music...).
+Simple script to be executed on torrents completion to organize them in their respective libraries, depending on their content (movies, tv show, music...).
 
 ## Getting Started
 
