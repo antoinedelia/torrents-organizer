@@ -1,7 +1,7 @@
 import logging
 import os
 
-LOG_LEVEL = os.getenv("LOG_LEVEL", "DEBUG")
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 
 
 class Logger:
